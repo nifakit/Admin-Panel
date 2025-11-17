@@ -1,4 +1,4 @@
-echo "# Admin-Panel 🚀
+# Admin-Panel 🚀
 
 Professional Admin Dashboard built with **React**, **Tailwind CSS**, and **React Router**. This project demonstrates handling data, API integration, CRUD operations, charts, and advanced UI features. Perfect for showcasing skills to employers. 💼
 
